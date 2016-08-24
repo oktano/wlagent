@@ -1,0 +1,7 @@
+com\trlogic\wlagent\configs\DatabaseConfig.class
+com\trlogic\wlagent\web\UserController.class
+com\trlogic\wlagent\web\MainController.class
+com\trlogic\wlagent\service\ScheduledTasks.class
+com\trlogic\wlagent\MainApplication.class
+com\trlogic\wlagent\domain\User.class
+com\trlogic\wlagent\domain\UserDao.class
